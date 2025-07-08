@@ -1,5 +1,4 @@
-Here's a GitHub `README.md` file for your Customer Churn Prediction project using Deep Learning, specifically mentioning the dataset fields and using less mathematical jargon.
-
+🔗 👉 **[Watch the Demo on YouTube](https://www.youtube.com/watch?v=fkZeUzhmzro&list=PLe-YIIlt-fbMg0B4DsrA8Xa2kgRv_pqA1&ab_channel=Jatin)**
 ```markdown
 # 📉 Customer Churn Prediction using Deep Learning (ANN)
 
@@ -179,7 +178,7 @@ The Streamlit `app.py` applies the following crucial preprocessing steps to any 
 
 ## 🤝 Credits
 
-* [Your Name/Organization Here]
+* [Jatin Yadav]
 * [TensorFlow](https://www.tensorflow.org/)
 * [Streamlit](https://streamlit.io/)
 * [Scikit-learn](https://scikit-learn.org/)
@@ -188,11 +187,6 @@ The Streamlit `app.py` applies the following crucial preprocessing steps to any 
 
 ---
 
-## 🙋‍♂️ Let's Connect
 
-* **💼 LinkedIn:** [Your LinkedIn Profile URL]
-* **📦 GitHub:** [Your GitHub Profile URL]
-* **📬 Email:** your@email.com
 
-Made with ❤️ by an AI enthusiast who transforms ML, NLP, DL, GenAI, and MLOps concepts into practical, impactful solutions.
-````
+
